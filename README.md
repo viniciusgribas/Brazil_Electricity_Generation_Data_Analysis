@@ -15,7 +15,7 @@ Energy Engineer │ Data Scientist and Analytics │ Python Developer
 
  - The project consists of an exploratory data analysis. The objective of this analysis is to visualize the Brazilian electric generation system in a diagrammatic and spatial way, extracting insights. For this, a dataframe of the GeoDataFrame type was used and, mainly, the power of the Plotly Express library optimized for the Python language. 
  
- - In this Part I, the category of dataframe studied is called Simple Feature: Geometry - MultiPoints, due to its characteristic of presenting a specific variable (geometry), referring to the geometry polar points, representing the Cartesian coordinates of Latitude and Longitude, enabling the georeferencing of the observations.
+ - The built dataframe is called Simple Feature: Geometry - MultiPoints, due to its characteristic of presenting a specific variable (geometry), referring to the geometry polar points, representing the Cartesian coordinates of Latitude and Longitude, enabling the georeferencing of the observations.
 
 
  - The standard report available on ANEEL's website is the [Electricity Generation Information System (ANEEL SIGA)](https://app.powerbi.com/view?r=eyJrIjoiNjc4OGYyYjQtYWM2ZC00YjllLWJlYmEtYzdkNTQ1MTc1NjM2IiwidCI6IjQwZDZmOWI4LWVjYTctNDZhMi05MmQ0LWVhNGU5YzAxNzBlMSIsImMiOjR9). The data for this report is available at [Brazilian Government Database](https://dados.gov.br/). For more information about the GeoDataFrame object types, I recommend visiting the GeoPandas library site.
